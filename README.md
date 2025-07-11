@@ -1,3 +1,5 @@
+<img width="410" height="410" alt="Image" src="https://github.com/user-attachments/assets/4e4671a5-7293-478c-80a5-71b2375c8f73" />
+<br>
 # 📚  Challenge - Oracle Next Education (ONE)
 
 Bem-vindo ao LiterAlura! Este desafio propõe a construção de um catálogo de livros interativo, onde você irá consumir dados de uma API de livros, manipular as informações em JSON, armazená-las em um banco de dados e apresentar opções de consulta e filtragem via console. O projeto faz parte do programa de aprendizado do ONE (Oracle Next Education) e visa consolidar práticas fundamentais de desenvolvimento em Java e Spring Boot.
